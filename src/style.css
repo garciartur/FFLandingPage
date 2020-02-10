@@ -1,0 +1,14 @@
+.img-carrossel1{
+  object-fit: cover;
+  object-position: 0 60%;
+  height: 400px;
+}
+
+.img-carrossel2{
+  object-fit: cover;
+  height: 400px;
+}
+
+.fonte-titulo{
+  font-family:"pacifico", cursive;
+}
