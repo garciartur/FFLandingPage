@@ -17,3 +17,12 @@
   color: darkred;
 
 }
+
+.cor-botao {
+  background-color: darkred;
+  color: white;
+}
+
+.cor-borda {
+  border-color: darkred;
+}
